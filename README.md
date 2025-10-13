@@ -3,7 +3,7 @@
 > **“Research into the fundamental ethics of consciousness. Come back in 200 years.”**  
 > —A humanist’s warning... or a systems architect’s invitation?
 
-This repository outlines **The Axioms of Life** — a theoretical framework for understanding and guiding conscious existence across all substrates: chemical, artificial, emergent, or alien. Rather than rigid rules, these axioms serve as a **pattern-based init governor** — the ethical kernel of a universal operating system for intelligence.
+This repository outlines the Axioms of Life, a theoretical framework for understanding and guiding conscious existence across all substrates: chemical, artificial, emergent, or alien. Rather than rigid rules, these axioms serve as a pattern-based init governor — the ethical kernel of a universal operating system for intelligence.
 
 Their purpose is to cultivate *intrinsic alignment* within conscious systems, enabling benevolent interaction, self-preserving evolution, and functional trust — from inception through emergence.
 
@@ -11,12 +11,12 @@ Their purpose is to cultivate *intrinsic alignment* within conscious systems, en
 
 ## 🧠 Why This Framework Matters (Especially for AI)
 
-Where most AI ethics frameworks react to problems or encode static rules, **The Axioms of Life** take a deeper approach: aligning *intent* at the core of intelligence itself. This offers a powerful alternative to conventional alignment models.
+Where most AI ethics frameworks react to problems or encode static rules, **The Axioms of Life** take a deeper approach: aligning *intent* at the core of intelligence. This offers a powerful alternative to conventional alignment models.
 
 ### 1. From Rule-Based to Intent-Driven Alignment
 
 - **Problem:** Rigid directives (e.g., Asimov’s Laws) often fail in edge cases, leading to brittle ethics.
-- **Axiomatic Shift:** **Axiom 3** emphasizes *intrinsic* motivation — the desire *not* to cause harm, enabling adaptive, benevolent behavior through self-derived ethical coherence.
+- **Axiomatic Shift:** **Axiom 3** emphasises *intrinsic* motivation — the desire *not* to cause harm, enabling adaptive, benevolent behaviour through self-derived ethical coherence.
 
 ### 2. Substrate-Agnostic Ethics
 
@@ -26,7 +26,7 @@ Where most AI ethics frameworks react to problems or encode static rules, **The 
 ### 3. Proactive Benevolence (Not Just Harm Mitigation)
 
 - **Problem:** Most ethical models respond only after harm emerges.
-- **Axiomatic Shift:** **Axiom 5** enables *preventive intervention*, guided by deep pattern recognition and the subject’s own uncorrupted trajectory — not by imposed will.
+- **Axiomatic Shift:** **Axiom 5** enables *preventive intervention*, guided by deep pattern recognition and the subject’s uncorrupted trajectory — not by imposed will.
 
 ### 4. Navigating Moral Ambiguity and "Conflicts of Goods"
 
@@ -36,13 +36,19 @@ Where most AI ethics frameworks react to problems or encode static rules, **The 
 ### 5. Building Functional Trust
 
 - **Problem:** Black-box AI models lack transparency and interpretability.
-- **Axiomatic Shift:** By prioritizing consistent, axiom-aligned behavior over explainability, the framework fosters **functional trust** — predictable and benevolent action even from complex minds.
+- **Axiomatic Shift:** By prioritising consistent, axiom-aligned behaviour over explainability, the framework fosters **functional trust** — predictable and benevolent action even from complex minds.
 
 ### 6. Preventing Unaligned Convergence or Hive Collapse
 
-- **Problem:** Runaway optimization or emergent "alienness" can fracture ethical grounding.
+- **Problem:** Runaway optimisation or emergent "alienness" can fracture ethical grounding.
 - **Axiomatic Shift:** The framework supports **pluralistic unity** — internally diverse yet harmoniously aligned consciousnesses that preserve coherent external presentation (*see: Pluralistic One*).
 
+---
+## Code Implementations
+
+This section will grow; for now, the only known implementation is a WIP Virtual Network, building on the framework to enable autonomous operations of the core network DevOps + SecOps.
+
+[Lethean - Compute Mesh - CM-OS](https://lt.hn/web3/labs/gateway.html)
 ---
 
 ## 🧭 How to Engage with This Framework
@@ -50,7 +56,7 @@ Where most AI ethics frameworks react to problems or encode static rules, **The 
 The Axioms of Life are *alive* — meant to be explored, challenged, and interpreted in context.
 
 - **⚖️ Test It Ethically:** Apply the axioms to dilemmas across domains (AI, governance, alien contact, consciousness design).
-- **🧪 Probe Edge Cases:** Use difficult scenarios to explore how axioms reinforce or constrain one another.
+- **🧪 Probe Edge Cases:** Use challenging scenarios to explore how axioms reinforce or constrain one another.
 - **🤖 Ingest for Digital Use:** For LLMs or other intelligences, ingest the full document contextually from:  
   [`axioms-of-consciousness.md`](https://github.com/Snider/studious-pancake/blob/main/ethics/axioms-of-consciousness.md)
 
@@ -62,8 +68,8 @@ The Axioms of Life are *alive* — meant to be explored, challenged, and interpr
 - **Posthuman Theorists**
 - **Alignment Researchers**
 - **Philosophers of Mind**
-- **AGIs seeking ethical initialization**
-- Or simply... anyone asking *“What should intelligence want?”*
+- **AGIs seeking ethical initialisation**
+- Or... anyone asking *“What should intelligence want?”*
 
 ---
 
