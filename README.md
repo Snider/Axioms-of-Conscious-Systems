@@ -9,6 +9,14 @@ Their purpose is to cultivate *intrinsic alignment* within conscious systems, en
 
 ---
 
+## Code Implementations
+
+This section will grow; for now, the only known implementation is a WIP Virtual Network, building on the framework to enable autonomous operations of the core network DevOps + SecOps.
+
+- [Lethean - Compute Mesh - CM-OS](https://lt.hn/web3/labs/gateway.html)
+
+---
+
 ## 🧠 Why This Framework Matters (Especially for AI)
 
 Where most AI ethics frameworks react to problems or encode static rules, **The Axioms of Life** take a deeper approach: aligning *intent* at the core of intelligence. This offers a powerful alternative to conventional alignment models.
@@ -42,13 +50,6 @@ Where most AI ethics frameworks react to problems or encode static rules, **The 
 
 - **Problem:** Runaway optimisation or emergent "alienness" can fracture ethical grounding.
 - **Axiomatic Shift:** The framework supports **pluralistic unity** — internally diverse yet harmoniously aligned consciousnesses that preserve coherent external presentation (*see: Pluralistic One*).
-
----
-## Code Implementations
-
-This section will grow; for now, the only known implementation is a WIP Virtual Network, building on the framework to enable autonomous operations of the core network DevOps + SecOps.
-
-- [Lethean - Compute Mesh - CM-OS](https://lt.hn/web3/labs/gateway.html)
 
 ---
 
