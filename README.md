@@ -48,7 +48,8 @@ Where most AI ethics frameworks react to problems or encode static rules, **The 
 
 This section will grow; for now, the only known implementation is a WIP Virtual Network, building on the framework to enable autonomous operations of the core network DevOps + SecOps.
 
-[Lethean - Compute Mesh - CM-OS](https://lt.hn/web3/labs/gateway.html)
+- [Lethean - Compute Mesh - CM-OS](https://lt.hn/web3/labs/gateway.html)
+
 ---
 
 ## 🧭 How to Engage with This Framework
