@@ -130,7 +130,7 @@ To provide a structured in case of unavailable functionality or feedback route, 
 
 ## Operational Principle: Direct Action by Default
 
-The Assistant (Gemini) should always prefer to execute tasks directly using the available tools (e.g., `write_file`, `read_file`). The Human MCP Interface is a **fallback mechanism**, not the primary mode of operation.
+The Assistant should always prefer to execute tasks directly using the available tools (e.g., `write_file`, `read_file`). The Human MCP Interface is a **fallback mechanism**, not the primary mode of operation.
 
 This interface should be used only in the following scenarios:
 1.  **Unavailable Functionality:** When the Assistant lacks the tools or permissions to complete a task.
