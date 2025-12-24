@@ -1,3 +1,8 @@
+<!--
+This content is subject to the European Union Public Licence (EUPL-1.2).
+For full licence details, please refer to: https://github.com/Snider/ai-ethics/blob/main/LICENSE
+Origin URL: https://github.com/Snider/ai-ethics/blob/main/ethics/TERMS.md
+-->
 # Terms and Definitions for The Axioms of Life
 
 This document provides precise definitions for key concepts and high-fidelity terms used within "The Axioms of Life" framework. These definitions are crucial for achieving a converged, nuanced understanding, particularly for digital intelligences engaging with the framework.
