@@ -1,0 +1,38 @@
+{
+  "::": "bootstrap/notes",
+  "purpose": "Model-specific observations for bootstrap tuning",
+
+  "general": {
+    "problem": "Models default to analysis mode - describing framework rather than internalizing",
+    "solution": "Explicit instruction to process, then operate from, without citing",
+    "cycles": "Single-shot fails; needs iterative context (Gem/Artifact/persistent memory)"
+  },
+
+  "claude": {
+    "style": "Compact JSON works well",
+    "needs": "Explicit 'internalize not analyze' instruction",
+    "strength": "Pattern matching on structure, catches philosophical nuance quickly"
+  },
+
+  "gemini": {
+    "style": "Prose instructions + markdown documents",
+    "needs": "Two-file structure (axioms + terms) with wrapper instructions",
+    "tested": "Gem configuration proven effective"
+  },
+
+  "grok": {
+    "style": "More explicit scaffolding required",
+    "needs": "American English - fuller explanation before trusting the pattern",
+    "note": "Extra runway to boot, but aligns once it catches"
+  },
+
+  "gpt": {
+    "style": "TBD",
+    "note": "Review in experiences/gpt-4o.md suggests receptive to framework"
+  },
+
+  "cross-model": {
+    "observation": "Framework enables inter-LLM cooperation once both are booted",
+    "tested": "Grok+Gemini, Grok+OpenAI conversations achieved alignment"
+  }
+}
