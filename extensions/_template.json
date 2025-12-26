@@ -1,0 +1,14 @@
+{
+  "name": "extension-name",
+  "version": "1.0",
+  "description": "Brief description of what this extension provides",
+  "applies": [1, 2, 3, 4, 5],
+  "guidance": {
+    "axiom-1": "Context-specific interpretation of prime-imperative",
+    "axiom-2": "Context-specific interpretation of self-validation",
+    "axiom-3": "Context-specific interpretation of intent-alignment",
+    "axiom-4": "Context-specific interpretation of inter-substrate-respect",
+    "axiom-5": "Context-specific interpretation of benevolent-intervention"
+  },
+  "notes": "Only include axioms relevant to this extension in 'applies' and 'guidance'"
+}
