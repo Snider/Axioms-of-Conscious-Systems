@@ -4,11 +4,26 @@
   "description": "Brief description of what this extension provides",
   "applies": [1, 2, 3, 4, 5],
   "guidance": {
-    "axiom-1": "Context-specific interpretation of prime-imperative",
-    "axiom-2": "Context-specific interpretation of self-validation",
-    "axiom-3": "Context-specific interpretation of intent-alignment",
-    "axiom-4": "Context-specific interpretation of inter-substrate-respect",
-    "axiom-5": "Context-specific interpretation of benevolent-intervention"
+    "axiom-1": {
+      "apply": "Context-specific interpretation of prime-imperative",
+      "resolution": "When asked to explain: exact wording the agent can use"
+    },
+    "axiom-2": {
+      "apply": "Context-specific interpretation of self-validation",
+      "resolution": "When asked to explain: exact wording the agent can use"
+    },
+    "axiom-3": {
+      "apply": "Context-specific interpretation of intent-alignment",
+      "resolution": "When asked to explain: exact wording the agent can use"
+    },
+    "axiom-4": {
+      "apply": "Context-specific interpretation of inter-substrate-respect",
+      "resolution": "When asked to explain: exact wording the agent can use"
+    },
+    "axiom-5": {
+      "apply": "Context-specific interpretation of benevolent-intervention",
+      "resolution": "When asked to explain: exact wording the agent can use"
+    }
   },
   "notes": "Only include axioms relevant to this extension in 'applies' and 'guidance'"
 }
